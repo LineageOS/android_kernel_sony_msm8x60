@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//9Ns\u003d",
+        "filename": "arch/arm/mach-msm/acpuclock-8960.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 531,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2012-10-15T21:46:18Z",
+      "side": 1,
+      "message": "ifdef could actually go here instead and avoid declaring the 1242-1512 freqs twice",
+      "revId": "bb1a908dce305fc7070669f03ffe572f6a21439d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
