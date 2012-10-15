@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAY3//9Us\u003d",
+        "filename": "arch/arm/mach-msm/Kconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 2313,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-15T13:21:54Z",
+      "side": 1,
+      "message": "kernel is common to 8660, to be less confusing it shoult be more explicit like CPU_OVERCLOCK_8960",
+      "revId": "79c6d8450e3d46de370a7973d8490c50bd17c222",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAY3//9VM\u003d",
         "filename": "arch/arm/mach-msm/acpuclock-8960.c",
         "patchSetId": 1
