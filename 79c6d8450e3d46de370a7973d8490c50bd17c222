@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//9VM\u003d",
+        "filename": "arch/arm/mach-msm/acpuclock-8960.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-15T13:05:05Z",
+      "side": 1,
+      "message": "why static to 34, should be 30 if oc is not enabled.\nalso move it into\n#ifdef CONFIG_CPU_FREQ_MSM",
+      "revId": "79c6d8450e3d46de370a7973d8490c50bd17c222",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//9U8\u003d",
+        "filename": "arch/arm/mach-msm/acpuclock-8960.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 493,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-15T13:05:05Z",
+      "side": 1,
+      "message": "why L2 is changed without OC enabled?",
+      "revId": "79c6d8450e3d46de370a7973d8490c50bd17c222",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//9U4\u003d",
+        "filename": "arch/arm/mach-msm/acpuclock-8960.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 519,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-15T13:05:05Z",
+      "side": 1,
+      "message": "as before",
+      "revId": "79c6d8450e3d46de370a7973d8490c50bd17c222",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
