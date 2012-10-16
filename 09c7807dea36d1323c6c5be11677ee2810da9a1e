@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH///9M\u003d",
+        "filename": "arch/arm/mach-msm/acpuclock-8960.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-16T18:08:17Z",
+      "side": 1,
+      "message": "change seems missing there",
+      "revId": "09c7807dea36d1323c6c5be11677ee2810da9a1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///7Y\u003d",
+        "filename": "arch/arm/mach-msm/board-8960-regulator.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 481,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-16T18:08:17Z",
+      "side": 1,
+      "message": "this is wrong",
+      "revId": "09c7807dea36d1323c6c5be11677ee2810da9a1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
