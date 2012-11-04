@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3///9c\u003d",
+        "filename": "drivers/usb/gadget/u_sdio.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 453,
+      "author": {
+        "id": 2491
+      },
+      "writtenOn": "2012-11-04T16:37:28Z",
+      "side": 1,
+      "message": "possible mem leak here.",
+      "revId": "b9a34f306954400cea3d36f2b7973db46fc38b93",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3///9Y\u003d",
+        "filename": "drivers/usb/gadget/u_sdio.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 459,
+      "author": {
+        "id": 2491
+      },
+      "writtenOn": "2012-11-04T16:37:28Z",
+      "side": 1,
+      "message": "and here too",
+      "revId": "b9a34f306954400cea3d36f2b7973db46fc38b93",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
