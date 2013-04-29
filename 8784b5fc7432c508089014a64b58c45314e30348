@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfH//+lU\u003d",
+        "filename": "arch/arm/mach-msm/board-blue.c",
+        "patchSetId": 6
+      },
+      "lineNbr": 3839,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2013-04-29T15:12:13Z",
+      "side": 1,
+      "message": "remove this changes it\u0027s alredy defined \n\ncheck\n\nCONFIG_INPUT_AKM8972",
+      "revId": "8784b5fc7432c508089014a64b58c45314e30348",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH//+lY\u003d",
+        "filename": "arch/arm/mach-msm/board-blue_hayabusa-pmic.c",
+        "patchSetId": 6
+      },
+      "lineNbr": 289,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2013-04-29T15:12:13Z",
+      "side": 1,
+      "message": "rtc_write_enable must be true!",
+      "revId": "8784b5fc7432c508089014a64b58c45314e30348",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
