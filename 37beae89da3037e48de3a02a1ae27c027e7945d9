@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfX///Ig\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-05-03T14:50:06Z",
+      "side": 1,
+      "message": "\"hayabusa: Enable INPUT_SIMPLE_REMOTE\" would be better.",
+      "revId": "37beae89da3037e48de3a02a1ae27c027e7945d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
