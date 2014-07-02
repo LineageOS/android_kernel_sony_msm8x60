@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_29a0399f",
+        "filename": "drivers/staging/prima-legacy/Makefile",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2014-07-02T19:32:43Z",
+      "side": 1,
+      "message": "How did I even miss this? :/",
+      "revId": "d005688bc6074f726bc907af6c8a42c49d56444a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
