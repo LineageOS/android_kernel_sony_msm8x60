@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_2ef65191",
+        "filename": "arch/arm/configs/cm_viskan_huashan_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2015-07-20T18:15:04Z",
+      "side": 1,
+      "message": "config !\u003d defconfig.\n\nRun `make savedefconfig` to save the actual defconfig.",
+      "revId": "c56d434a1a0e06e9cda3970d6dc256733342fb79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
