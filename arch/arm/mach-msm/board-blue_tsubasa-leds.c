@@ -22,12 +22,14 @@ struct as3676_platform_data as3676_platform_data = {
 		.on_charge_pump = 0,
 		.max_current_uA = 20000,
 		.startup_current_uA = 20000,
+		.fb_backlight = true,
 	},
 	.leds[1] = {
 		.name = "lcd-backlight_2",
 		.on_charge_pump = 0,
 		.max_current_uA = 20000,
 		.startup_current_uA = 20000,
+		.fb_backlight = true,
 	},
 	.leds[2] = {
 		.name = "led_3-not-connected",
