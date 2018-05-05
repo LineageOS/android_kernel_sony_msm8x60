@@ -23,6 +23,7 @@ struct as3676_platform_data as3676_platform_data = {
 		.max_current_uA = 21000,
 		.startup_current_uA = 4000,
 		.use_dls = true,
+		.fb_backlight = true,
 	},
 	.leds[1] = {
 		.name = "lcd-backlight_2",
@@ -30,6 +31,7 @@ struct as3676_platform_data as3676_platform_data = {
 		.max_current_uA = 21000,
 		.startup_current_uA = 4000,
 		.use_dls = true,
+		.fb_backlight = true,
 	},
 	.leds[2] = {
 		.name = "led_3-not-connected",
