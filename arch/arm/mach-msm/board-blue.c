@@ -3169,13 +3169,6 @@ static int __init setup_serial_console(char *console_flag)
 */
 __setup("semcandroidboot.babe09a9=", setup_serial_console);
 
-#ifdef CONFIG_SERIAL_MSM_HS
-
-#else
-static struct msm_serial_hs_platform_data msm_uart_dm8_pdata;
-static struct msm_serial_hs_platform_data msm_uart_dm9_pdata;
-#endif
-
 #if defined(CONFIG_BT) && defined(CONFIG_BT_HCIUART_ATH3K)
 enum WLANBT_STATUS {
 	WLANOFF_BTOFF = 1,
